@@ -1,4 +1,4 @@
-# Copyright: 2023 - roombon
+# Copyright: 2023 - mizmu
 # License: AGPLv3+
 
 from aqt import mw
